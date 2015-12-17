@@ -2,7 +2,6 @@
 
 This project demostrate the use of step indicator cntrol as android have. This is the custom step indicator view for iOS application. You can use easily integrate this control in your application and extend app functionality.
 
-[![](http://mobitronics.in/wp-content/uploads/2015/12/StepIndicator_thumbnail.png)](http://mobitronics.in/wp-content/uploads/2015/12/StepIndicator_thumbnail.png)
 
 ## Requirements
 
